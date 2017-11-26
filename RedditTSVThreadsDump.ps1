@@ -3,7 +3,7 @@
 $clientID = "uUyDLVcRsgDqQQ"
 $secretID = "	SzwqCewm4DZIgKYR-K7mFmNA2Jc"
 $redirectURI = "https://not-an-aardvark.github.io/reddit-oauth-helper/"
-$refresh_token = ""
+$refresh_token = "39979270-bWLNuTAcyoZyK3CgWyX2eND8MEY"
 $TSVFile = "$env:USERPROFILE\Desktop\tsv.csv"
 $TSVFileProcessed = "$env:USERPROFILE\Desktop\tsv-processed.csv"
 $TSVFileG6 = "$env:USERPROFILE\Desktop\tsv-6.csv"
