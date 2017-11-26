@@ -1,7 +1,7 @@
 ﻿# Variables
 
-$clientID = ""
-$secretID = ""
+$clientID = "uUyDLVcRsgDqQQ"
+$secretID = "	SzwqCewm4DZIgKYR-K7mFmNA2Jc"
 $redirectURI = "https://not-an-aardvark.github.io/reddit-oauth-helper/"
 $refresh_token = ""
 $TSVFile = "$env:USERPROFILE\Desktop\tsv.csv"
